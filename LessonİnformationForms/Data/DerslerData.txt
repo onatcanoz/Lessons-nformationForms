@@ -1,0 +1,3 @@
+﻿1~Geometri~Daire~1~3
+2~Türkçe~Sözcükler~2~5
+3~Kimya~Madder~1~3
